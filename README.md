@@ -8,4 +8,7 @@
 ### Optimized result
 ![default query](result/optimized.PNG?raw=true "Title")
 
+### Installation
 
+* Run `composer install`
+* Run `npm install && npm run watch`
